@@ -1,0 +1,22 @@
+{
+  "name": "project_x",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christianpena9/project_x.git"
+  },
+  "author": "Danielle Bond and Christian Pena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/christianpena9/project_x/issues"
+  },
+  "homepage": "https://github.com/christianpena9/project_x#readme",
+  "dependencies": {
+    "jquery": "^3.1.1"
+  }
+}

@@ -1,4 +1,4 @@
 var hello = 'Hello World';
-var test;
+var test = 'test';
 
 console.log(hello);

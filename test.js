@@ -1,1 +1,3 @@
-<h1>hello world</h1>
+var hello = 'Hello World';
+
+console.log(hello);
